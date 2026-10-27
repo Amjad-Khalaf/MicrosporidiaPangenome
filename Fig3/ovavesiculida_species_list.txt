@@ -1,0 +1,11 @@
+cjLepRept2
+Nematocida_sp._AWRm80_GCA_024244045.1
+Nematocida_sp._AWRm77_GCA_024244115.1
+Nematocida_displodere_GCA_001642395.1
+Nematocida_homosporus_GCA_024244095.1
+Nematocida_sp._LUAm2_GCA_024244025.1
+Nematocida_minor_GCA_024244105.1
+Nematocida_major_GCA_021653875.1
+Nematocida_ausubeli_GCA_000738915.1
+Nematocida_ironsii_GCA_001642415.1
+Nematocida_parisii_ERTm1_GCA_000250985.1
