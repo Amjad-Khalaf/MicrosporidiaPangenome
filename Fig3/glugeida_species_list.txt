@@ -1,0 +1,8 @@
+Cucumispora_dikerogammari_GCA_014805705.1
+Pseudoloma_neurophilia_GCA_001432165.1
+Albopleistophora_grylli_GCA_043388365.1
+ilCraPere1_GCA_986194805.1
+idHydMili2_b
+Dictyocoela_muelleri_GCA_016256075.1
+Dictyocoela_roeselum_GCA_016255985.1
+Spraguea_lophii_GCA_001887945.1
